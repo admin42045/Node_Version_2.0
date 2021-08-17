@@ -1,0 +1,11 @@
+node -v
+npm -v
+
+npm init -> for create a package.json file
+npm i or npm update or npm install -> for create package.lock.json file
+
+npm install -g nodemon -> for live update server as liveserve
+
+http://localhost:3000/
+
+npm install express -> with this cmd create the node_module and update the file of package.json
