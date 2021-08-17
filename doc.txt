@@ -9,3 +9,9 @@ npm install -g nodemon -> for live update server as liveserve
 http://localhost:3000/
 
 npm install express -> with this cmd create the node_module and update the file of package.json
+
+
+make a file .gitignore
+inside the write some text which want we to don't save at pull time
+
+#ignoring package installed by npm
